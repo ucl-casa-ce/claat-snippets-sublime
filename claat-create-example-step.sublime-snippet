@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+<!-- ------------------------ -->
+## ${1:Heading} 
+Duration: ${2:hh}:${3:mm}:${4:ss}
+
+### List of Learnings 
+- how to set the amount of time each slide will take to finish 
+- how to include code snippets 
+- how to hyperlink items 
+- how to include images 
+- other stuff
+
+### JavaScript
+
+```javascript
+{ 
+  key1: "string", 
+  key2: integer,
+  key3: "string"
+}
+```
+### Hyperlinking
+[Youtube - Music Playlist](https://www.youtube.com/watch?v=VNMms_zGbnI)
+
+### Images
+![alt-text-here](assets/puppy.jpg)
+]]></content>
+	<tabTrigger>claat-create-example-step</tabTrigger>
+ 	<description>Create Codelab Step</description>
+ 	<scope>text.html.markdown, text.plain</scope>
+</snippet>

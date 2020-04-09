@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Positive
+: This will appear in a positive info box.
+
+]]></content>
+	<tabTrigger>claat-infobox</tabTrigger>
+	<description>Add a positive style info box</description>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

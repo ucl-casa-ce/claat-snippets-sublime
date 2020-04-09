@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Negative
+: This will appear in a negative info box.
+
+]]></content>
+	<tabTrigger>claat-infobox-negative</tabTrigger>
+	<description>Add a negative style info box</description>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

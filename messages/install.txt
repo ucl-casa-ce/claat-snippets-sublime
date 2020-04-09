@@ -1,0 +1,21 @@
+☀☀☀☀☀☀ Thanks for downloading Claat Snippets for Sublime Text! ☀☀☀☀☀☀☀
+
+✿ To report bugs and request features - https://github.com/ucl-casa-ce/claat-snippets-sublime/issues
+
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+Usage
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+A consolidated guide is available at - https://github.com/ucl-casa-ce/claat-snippets-sublime
+
+Type a tag name and hit tab to complete. That's it!
+
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+List of Tab Triggers
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+claat-header 				// Creates a Codelab Header 
+claat-create-empty_step		// Create an Empty Codelab Step 
+claat-create-example-step	// Create an Example Codelab Step
+claat-create-parts-list		// Create a Parts List
+claat-infobox				// Add a positive style info box
+claat-infobox-negative		// Add a negative style info box
+claat-download-button		// Add a download link

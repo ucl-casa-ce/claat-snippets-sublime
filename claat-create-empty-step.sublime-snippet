@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- ------------------------ -->
+## ${1:First Step} 
+Duration: ${2:hh}:${3:mm}:${4:ss}
+
+### ${5:Heading}
+]]></content>
+	<tabTrigger>claat-create-empty-step</tabTrigger>
+	<description>Create Empty Codelab Step</description>
+	<scope>text.html.markdown, text.plain</scope>
+</snippet>

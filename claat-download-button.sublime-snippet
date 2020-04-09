@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+[Download Button Item]( https://www.sjg.dev)
+
+]]></content>
+	<tabTrigger>claat-download-button</tabTrigger>
+	<description>Add a download link</description>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

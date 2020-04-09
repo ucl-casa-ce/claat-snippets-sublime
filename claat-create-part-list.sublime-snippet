@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!-- ------------------------ -->
+
+## Parts List
+To complete this workshop, you will need:
+- ${1:Part 1}
+- ${2:Part 2}
+- ${3:3 x Part 3}
+- ${4:Part 4}
+- ${5:1 x Part 5}
+]]></content>
+	<tabTrigger>claat-create-part-list</tabTrigger>
+	<description>Create an Part List</description>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

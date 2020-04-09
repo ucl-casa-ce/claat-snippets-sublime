@@ -1,0 +1,5 @@
+✿ Version 1.0.0
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+
+- 13-3-2020
+- Initial release of claat-helper extension with some of the basic functionality integrated.

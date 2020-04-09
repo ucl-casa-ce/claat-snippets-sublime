@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+summary: ${1:Summary}
+id: ${2:ID}
+categories: ${3:Categories}
+tags: ${4:Tag 1},${5:Tag 2}
+status: Published
+authors: ${6:author}
+Feedback Link: https://www.github.com/ucl-casa-ce/${7:Workshop Repoistory}
+
+# ${8:Codelab Title}
+
+]]></content>
+	<tabTrigger>claat-header</tabTrigger>
+	<description>Creates a Codelab Header</description>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>
