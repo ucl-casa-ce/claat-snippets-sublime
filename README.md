@@ -22,11 +22,11 @@ The easiest way is to install it via [Package Control](https://packagecontrol.io
 
 # Usage
 
-Type part of a snippet, starting with `!claat`, press `enter` and the snippet will unfold. For snippets in markdown format you need to press `ctrl+space` (Windows / Linux) or `cmd+space` (OSX).  Pressing tab will allow you to skip between fields. 
+Type part of a snippet, starting with `claat`, press `enter` and the snippet will unfold. For snippets in markdown format you need to press `ctrl+space` (Windows / Linux) or `cmd+space` (OSX).  Pressing tab will allow you to skip between fields. 
 
 # CLAAT Snippets
 
-**Note**: Sublime doesn't like exclaimation points in snippets triggers therefore it is omitted from this extension.
+**Note**: Sublime doesn't like exclaimation points in snippet triggers therefore it is omitted from this extension.
 
 | Snippet | Content |
 | ------- | ------- |
@@ -41,7 +41,7 @@ Type part of a snippet, starting with `!claat`, press `enter` and the snippet wi
 
 # Future Work
 
-The plan is to intgrate this into the claat workflow in the future by allowing building of the codelab within vscode.  Watch this space!
+The plan is to intgrate this into the claat workflow in the future by allowing building of the codelab within sublime-text.  Watch this space!
 
 # Reporting Issues
 
