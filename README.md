@@ -16,7 +16,7 @@ The easiest way is to install it via [Package Control](https://packagecontrol.io
 
 ### Manual
 
-- Clone the repository or download the [ZIP](https://github.com/ucl-casa-ce/claat-snippets-sublime/issues/archive/master.zip)
+- Clone the repository or download the [ZIP](https://github.com/ucl-casa-ce/claat-snippets-sublime/archive/master.zip)
 - Extract the archive
 - Put it in your **Packages**( `Preferences > Browse Packages...` ) directory.  
 
